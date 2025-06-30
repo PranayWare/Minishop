@@ -35,9 +35,9 @@ mongoose.connect(process.env.MONGO_URI, {
 });
 
 // Default route (can be optional if index.html is present in /public)
-app.get('/', (req, res) => {
-  res.send('Welcome to MiniShop API');
-});
+//app.get('/', (req, res) => {
+  //res.send('Welcome to MiniShop API');
+//});
 
 // Start server
 app.listen(PORT, () => {
