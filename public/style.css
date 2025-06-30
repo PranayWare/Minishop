@@ -1,0 +1,70 @@
+/* public/style.css */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f6f6f6;
+}
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+form {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+#products {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.product {
+  background-color: white;
+  padding: 10px 20px;
+  margin: 10px;
+  width: 300px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
